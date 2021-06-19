@@ -11,7 +11,7 @@
 
 <h5>Bu telgraf için yapılmış bir grup yönetim botu. Bu userbot'ı diğer tüm botların yardımıyla telgrafta kullanılabilir hale getirdim. Tüm krediler ilgili sahiplerine gider.</h5>
 
-Bu, #MEHMETBABA06 tarafından yapılan tek resmi EfsaneHelpBot Grup Yönetim Botudur.
+Bu, #MEHMETBABA06 tarafından yapılan tek resmi GroupHelpBot Grup Yönetim Botudur.
 
 Eğer beğendiyseniz bu repo'ya bakmayı unutmayın.
 
