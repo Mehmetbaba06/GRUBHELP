@@ -20,7 +20,8 @@ Botunuzun Tadını Çıkarın!! 💝
 <a href="https://ibb.co/C1S4nrM"><img src="https://i.ibb.co/C1S4nrM/attachment-64280401.png" alt="attachment-64280401" border="0"></a>
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)https://github.com/Mehmetbaba06/DaisyX)
+<a href="https://heroku.com/deploy?template=https://github.com/Mehmetbaba06/DaisyX"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p> 
+ 
 
 
 # Support
