@@ -30,9 +30,9 @@ Botunuzun Tadını Çıkarın!! 💝
 
 
 <details>
-<summary> special thanks </summary>
-<b>DEVIL (@lucifeermorningstar) Owner</b>
-<b>Inuka (@InukaASiTH) Developer</b>
+<summary> Tasarım düzen Editör </summary>
+<b>DEVIL (@Efsanestar) Owner</b>
+<b>RgKurucu (@Mehmett_12) Developer</b>
 <b>SHUBHAM (@theshubhamgundu) Promoter</b>
 <b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
 <h1>#TEAMDAISYXDEVS</h1>
