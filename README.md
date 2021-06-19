@@ -31,7 +31,7 @@ Botunuzun Tadını Çıkarın!! 💝
 
 <details>
 <summary> Tasarım düzen Editör </summary>
-<b>Kurucu (@Efsanestar) Sahip </b>
+<b>Kurucu (@Efsanestar) Sahip</b>
 <b>RgKurucu (@Mehmett_12) Usta </b>
 <b>Yardımcı (SKYFALL Polat) Başkan </b>
 <b>Yardımcı (SKYFALL Tarık) Kurucu </b>
