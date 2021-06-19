@@ -7,11 +7,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/lucifeermorningstar)
 
-<h1 align="center">⚡ DaisyX Efsane 007⚡</h1>
+<h1 align="center">⚡ Efsane Help 007⚡</h1>
 
 <h5>Bu telgraf için yapılmış bir grup yönetim botu. Bu userbot'ı diğer tüm botların yardımıyla telgrafta kullanılabilir hale getirdim. Tüm krediler ilgili sahiplerine gider.</h5>
 
-Bu, #TeamDaisyXDevs tarafından yapılan tek resmi DaisyXBot Grup Yönetim Botudur.
+Bu, #MEHMETBABA06 tarafından yapılan tek resmi EfsaneHelpBot Grup Yönetim Botudur.
 
 Eğer beğendiyseniz bu repo'ya bakmayı unutmayın.
 
