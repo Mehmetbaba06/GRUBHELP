@@ -31,11 +31,11 @@ Botunuzun Tadını Çıkarın!! 💝
 
 <details>
 <summary> Tasarım düzen Editör </summary>
-<b>DEVIL (@Efsanestar) Owner</b>
-<b>RgKurucu (@Mehmett_12) Developer</b>
-<b>SHUBHAM (@theshubhamgundu) Promoter</b>
-<b>ROHAN (@RoHaN_TeRa_BaAp) Supporter</b>
-<h1>#TEAMDAISYXDEVS</h1>
+<b>Kurucu (@Efsanestar) Sahip </b>
+<b>RgKurucu (@Mehmett_12) Usta </b>
+<b>Yardımcı (SKYFALL Polat) Başkan </b>
+<b>Yardımcı (SKYFALL Tarık) Supporter</b>
+<h1>#SohbetSkyall</h1>
 </details>
 
 
