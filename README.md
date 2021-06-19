@@ -1,5 +1,5 @@
 
-<h3>🇹🇷 En Güçlü Grup Yönetimi Botu 🇹🇷</h3>
+<h3>🔯 Güçlü Grup Yönetimi Botu 🔯</h3>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAMDAISYXDEVS/DaisyX?utm_source=github.com&utm_medium=referral&utm_content=TEAMDAISYXDEVS/DaisyX&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
