@@ -19,7 +19,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![DaisyBot logo](https://telegra.ph/file/1d5b67c7d155ddb587cde.jpg)](https://t.me/DaisyXNews)
+<a href="https://ibb.co/C1S4nrM"><img src="https://i.ibb.co/C1S4nrM/attachment-64280401.png" alt="attachment-64280401" border="0"></a>
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX&template=https%3A%2F%2Fgithub.com%2FTEAMDAISYXDEVS%2FDaisyX)
