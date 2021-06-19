@@ -1,5 +1,5 @@
 
-<h3>☣️ En Güçlü Grup Yönetimi Botu ☣️</h3>
+<h3>🇹🇷 En Güçlü Grup Yönetimi Botu 🇹🇷</h3>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TEAMDAISYXDEVS/DaisyX?utm_source=github.com&utm_medium=referral&utm_content=TEAMDAISYXDEVS/DaisyX&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -9,13 +9,13 @@
 
 <h1 align="center">⚡ DaisyX Efsane 007⚡</h1>
 
-<h5>This is a group management bot made for telegram. I made this userbot with help of all other bots available in telegram. All credits goes to its Respective Owners.</h5>
+<h5>Bu telgraf için yapılmış bir grup yönetim botu. Bu userbot'ı diğer tüm botların yardımıyla telgrafta kullanılabilir hale getirdim. Tüm krediler ilgili sahiplerine gider.</h5>
 
-This is the one and only official DaisyXBot Group Management Bot made by #TeamDaisyXDevs.
+Bu, #TeamDaisyXDevs tarafından yapılan tek resmi DaisyXBot Grup Yönetim Botudur.
 
-Don't forget to star this repo if you liked it.
+Eğer beğendiyseniz bu repo'ya bakmayı unutmayın.
 
-Enjoy Your Bot!!💝
+Botunuzun Tadını Çıkarın!! 💝
 
 <a href="https://ibb.co/C1S4nrM"><img src="https://i.ibb.co/C1S4nrM/attachment-64280401.png" alt="attachment-64280401" border="0"></a>
 
