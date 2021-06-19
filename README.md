@@ -24,7 +24,7 @@ Botunuzun Tadını Çıkarın!! 💝
  
 
 
-# Support
+# destek 
 <a href="https://t.me/kanalefsanestar"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/sohbetskyfall"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
@@ -40,7 +40,7 @@ Botunuzun Tadını Çıkarın!! 💝
 
 
 
-## Support
-   <a href="https://t.me/DaisyXNews"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/DaisyXSupport"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+## destek
+   <a href="https://t.me/Efsanestar"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/Rgsohbet"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
