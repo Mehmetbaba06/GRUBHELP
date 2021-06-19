@@ -34,8 +34,7 @@ Botunuzun Tadını Çıkarın!! 💝
 <b>Kurucu (@Efsanestar) Sahip </b>
 <b>RgKurucu (@Mehmett_12) Usta </b>
 <b>Yardımcı (SKYFALL Polat) Başkan </b>
-<b>Yardımcı (SKYFALL Tarık) Supporter</b>
-<h1>#SohbetSkyall</h1>
+<b>Yardımcı (SKYFALL Tarık) Kurucu </b>
 </details>
 
 
